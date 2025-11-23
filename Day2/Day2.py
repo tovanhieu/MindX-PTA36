@@ -54,7 +54,3 @@ pet3.can_nang = 3
 print(f"Pet1: Ten: {pet1.ten}, Giong: {pet1.giong}, Mau Sac: {pet1.mau_sac}, Can Nang: {pet1.can_nang}kg")
 print(f"Pet2: Ten: {pet2.ten}, Giong: {pet2.giong}, Mau Sac: {pet2.mau_sac}, Can Nang: {pet2.can_nang}kg")
 print(f"Pet3: Ten: {pet3.ten}, Giong: {pet3.giong}, Mau Sac: {pet3.mau_sac}, Can Nang: {pet3.can_nang}kg")
-
-pet3.thay_doi_thong_tin(ten="Bunny", can_nang=4)
-
-print(f"Pet3: Ten: {pet3.ten}, Giong: {pet3.giong}, Mau Sac: {pet3.mau_sac}, Can Nang: {pet3.can_nang}kg")
